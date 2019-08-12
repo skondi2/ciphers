@@ -26,9 +26,9 @@ a shift of 2, and the third letter will have a shift of 26 because these are the
 Note:
 For both of these ciphers, after reaching the rightmost letter in the alphabet Z, the shift continues from the beginning letter A
 
-##Built With
+## Built With:
 Python
 
-##Author
+## Author:
 Shruthi Kondin
 
